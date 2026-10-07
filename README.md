@@ -7,11 +7,11 @@ da astronomia.
 ### 🧰 Linguagens 
 <div>
 <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="45" height="45"/>
-<img src="https://thesvg.org/icons/cplusplus/default.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/452184/csharp.svg" width="40" height="40"/>
-<img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/452045/js.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40"/>
+<img src="https://thesvg.org/icons/cplusplus/default.svg" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/452184/csharp.svg" width="45" height="45"/>
+<img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/452045/js.svg" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/452091/python.svg" width="45" height="45"/>
 </div>
 
 
