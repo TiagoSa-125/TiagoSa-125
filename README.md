@@ -35,7 +35,7 @@ da astronomia.
 <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="45" height="45"/>
 <!--Meter do Visual Studio quando tiver realmente dado C#-->
 <img src="https://images.icon-icons.com/729/PNG/512/visualstudio_icon-icons.com_62717.png" width="45" height="45"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-3147283.png?f=webp&w=256" width="45" height="45"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-47401.png?f=webp&w=256" width="45" height="45"/>
 </div>
 
 <div>
