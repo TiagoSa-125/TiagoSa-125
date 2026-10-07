@@ -26,7 +26,7 @@ da astronomia.
 <div>
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="45" height="45"/>
-<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supabase.svg" width="45" height="45"/>
 </div>
 
 
