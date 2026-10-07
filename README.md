@@ -5,6 +5,6 @@ Sou estudante de Programação Informática, com interesse em desenvolvimento de
 da astronomia.
 
 ### 🧰 Linguagens 
-<img src="https://www.svgrepo.com/show/402309/penguin.svg" width="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40"/>
 
 #### Web
