@@ -34,10 +34,15 @@ da astronomia.
 <div>
 <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="45" height="45"/>
 <!--Meter do Visual Studio quando tiver realmente dado C#-->
+<img src="https://images.icon-icons.com/729/PNG/512/visualstudio_icon-icons.com_62717.png" width="45" height="45"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-3147283.png?f=webp&w=256" width="45" height="45"/>
+</div>
+
+<div>
 <img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/331370/docker.svg" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/394174/github.svg" width="45" height="45"/>
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg" width="45" height="45"/>
-
+  
 </div>
+
+
