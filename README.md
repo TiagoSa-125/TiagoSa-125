@@ -4,7 +4,6 @@
 Sou estudante de Programação Informática, com interesse em desenvolvimento de software, inteligência artificial e na área
 da astronomia.
 
+### 🧰 Linguagens 
 
-### 🧰 Languages and Tools
-
-#
+## Web
