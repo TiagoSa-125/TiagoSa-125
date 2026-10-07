@@ -18,7 +18,7 @@ da astronomia.
 <div>
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="45" height="45"/>
-<img src="http://www.w3.org/2000/svg" width="45" height="45"/>
+<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="45" height="45"/>
 
 </div>
 
