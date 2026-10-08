@@ -1,10 +1,10 @@
 # <img src="https://www.svgrepo.com/show/402309/penguin.svg" width="40"/> Tiago Sá
 
-### 🧰 Sobre Mim
+### Sobre Mim
 Sou estudante do 11ºAno do curso de Programador de Informática, com interesse em desenvolvimento de software, inteligência artificial e na área
 da astronomia.
 
-### 🧰 Linguagens 
+### Linguagens 
 <div>
 <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="45" height="45"/>
 <img src="https://thesvg.org/icons/cplusplus/default.svg" width="45" height="45"/>
@@ -46,7 +46,7 @@ da astronomia.
 </div>
 
 
-### 🧰 Contactos
+### Contactos
 <p><a href="https://www.linkedin.com/in/tiago-sa125">
 <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="45" height="45">
 </a></p>
