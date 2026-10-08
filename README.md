@@ -10,7 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&label=Visitas&color=0e75b6&style=for-the-badge" alt="visitas" />
 <img src="https://img.shields.io/badge/Portugal-🇵🇹-red?style=for-the-badge" alt="Portugal" />
 
 </div>
