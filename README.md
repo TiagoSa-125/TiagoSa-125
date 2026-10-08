@@ -1,51 +1,87 @@
-# <img src="https://www.svgrepo.com/show/402309/penguin.svg" width="40"/> Tiago Sá
+<!-- Troca SEU-USERNAME pelo teu username do GitHub e o link do LinkedIn pelo teu -->
 
-### Sobre Mim
-Sou estudante do 11ºAno do curso de Programador de Informática, com interesse em desenvolvimento de software, inteligência artificial e na área
-da astronomia.
+<div align="center">
 
-### Linguagens 
-<div>
-<img src="https://icon.icepanel.io/Technology/svg/C.svg" width="45" height="45"/>
-<img src="https://thesvg.org/icons/cplusplus/default.svg" width="45" height="45"/>
-<!--Tirar este comentario quando tiver realmente dado C#-->
-<!-- <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="45" height="45"/>-->
-<img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/452045/js.svg" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/452091/python.svg" width="45" height="45"/>
+<img src="./assets/banner.svg" alt="Tiago Sá - Programador, IA e Astronomia" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%A7+Ol%C3%A1%2C+eu+sou+o+Tiago!;Estudante+de+Programador+de+Inform%C3%A1tica;Apaixonado+por+software%2C+IA+e+astronomia+%F0%9F%8C%8C;A+aprender+algo+novo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&label=Visitas&color=0e75b6&style=for-the-badge" alt="visitas" />
+<img src="https://img.shields.io/badge/Portugal-🇵🇹-red?style=for-the-badge" alt="Portugal" />
+
 </div>
 
-#### Desenvolvimento Web
-<div>
-<img src="https://www.svgrepo.com/show/452092/react.svg" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="45" height="45"/>
-<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="45" height="45"/>
+---
+
+## 🐧 Sobre Mim
+
+Sou estudante do curso de **Programador de Informática**, com interesse em **desenvolvimento de software**, **inteligência artificial** e na área da **astronomia**. 🌌
+
+- 🔭 A trabalhar em projetos de software e a explorar IA
+- 🌱 A aprender e a melhorar todos os dias
+- 💬 Pergunta-me sobre programação, IA ou o universo
+- ⚡ Curiosidade: gosto de olhar para as estrelas tanto quanto de olhar para o código
+
+---
+
+## 💻 Linguagens
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py&theme=dark" alt="linguagens" />
+</p>
+
+## 🌐 Desenvolvimento Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="web" />
+</p>
+
+## 🗄️ Base de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="bases de dados" />
+</p>
+
+## 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,docker&theme=dark" alt="ferramentas" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
 </div>
 
-#### Base de Dados
-<div>
-<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supabase.svg" width="45" height="45"/>
+---
+
+## 📫 Contactos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SEU-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<div align="center">
+
+<img src="./assets/footer.svg" alt="footer" width="100%" />
+
 </div>
-
-
-#### Ferramentas
-<div>
-<img src="https://www.svgrepo.com/show/374171/vscode.svg" width="45" height="45"/>
-<!--Meter do Visual Studio quando tiver realmente dado C#-->
-<img src="https://images.icon-icons.com/729/PNG/512/visualstudio_icon-icons.com_62717.png" width="45" height="45"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-47401.png?f=webp&w=256" width="45" height="45"/>
-</div>
-
-<div>
-<img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/331370/docker.svg" width="45" height="45"/>
-  
-</div>
-
-### Contactos
-<p><a href="https://www.linkedin.com/in/tiago-sa125">
-<img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="45" height="45">
-</a></p>
