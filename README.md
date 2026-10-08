@@ -13,7 +13,7 @@
 <a href="https://github.com/TiagoSa-125?tab=followers">
   <img src="https://img.shields.io/github/followers/TiagoSa-125?label=Seguidores&logo=github&logoColor=white&color=8b5cf6&style=for-the-badge" alt="Seguidores" />
 </a>
-<a href="https://github.com/SEU-USERNAME?tab=following">
+<a href="https://github.com/TiagoSa-125?tab=following">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/TiagoSa-125&query=$.following&label=A%20seguir&logo=github&logoColor=white&color=0ea5e9&style=for-the-badge" alt="A seguir" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=TiagoSa-125&label=Visitas&color=0e75b6&style=for-the-badge&abbreviated=false" alt="Visitas" />
