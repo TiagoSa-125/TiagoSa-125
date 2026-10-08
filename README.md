@@ -29,8 +29,7 @@ Sou estudante do curso de **Programador de Informática**, com interesse em **de
 
 - 🔭 A trabalhar em projetos de software e a explorar IA
 - 🌱 A aprender e a melhorar todos os dias
-- 💬 Pergunta-me sobre programação, IA ou o universo
-- ⚡ Curiosidade: gosto de olhar para as estrelas tanto quanto de olhar para o código
+- ⚡ Curiosidade: gosto de olhar para as estrelas tanto quanto de olhar para o meu código
 
 ---
 
