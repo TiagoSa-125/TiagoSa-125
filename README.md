@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="TiagoSa-125/assets/banner.svg" alt="Tiago Sá - Programador, IA e Astronomia" width="100%" />
+<img src="./assets/banner.svg" alt="Tiago Sá - Programador, IA e Astronomia" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%A7+Ol%C3%A1%2C+eu+sou+o+Tiago!;Estudante+de+Programador+de+Inform%C3%A1tica;Apaixonado+por+software%2C+IA+e+astronomia+%F0%9F%8C%8C;A+aprender+algo+novo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
