@@ -82,7 +82,7 @@
 <ellipse cx="500" cy="330" rx="620" ry="215" fill="none" stroke="#fde7c4" stroke-opacity="0.7" stroke-width="2"/>
 <ellipse cx="500" cy="330" rx="620" ry="215" fill="none" stroke="#c4b5fd" stroke-opacity="0.25" stroke-width="10"/>
 <text x="500" y="62" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="url(#title)" letter-spacing="2">Obrigado pela visita ✦</text>
-<text x="500" y="92" text-anchor="middle" font-family="'Courier New',monospace" font-size="16" fill="#c7d2fe" fill-opacity="0.9">ad astra per aspera</text>
+<text x="500" y="92" text-anchor="middle" font-family="'Courier New',monospace" font-size="16" fill="#c7d2fe" fill-opacity="0.9">Adeus</text>
 </g>
 <rect x="1" y="1" width="998" height="138" rx="18" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/>
 </svg>
