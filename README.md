@@ -50,5 +50,3 @@ da astronomia.
 <p><a href="https://www.linkedin.com/in/tiago-sa125">
 <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="45" height="45">
 </a></p>
-
-
