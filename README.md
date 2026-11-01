@@ -42,7 +42,7 @@ Sou estudante do curso de **Programador de Informática**, com interesse em **de
 ## 🌐 Desenvolvimento Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="web" />
+  <img src="https://skillicons.dev/icons?i=cs,react,html,css&theme=dark" alt="web" />
 </p>
 
 ## 🗄️ Base de Dados
