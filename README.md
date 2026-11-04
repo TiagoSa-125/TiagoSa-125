@@ -71,7 +71,7 @@ Sou estudante do curso de **Programador de Informática**, com interesse em **de
 <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=TiagoSa-125&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
----
+
 
 ## 📫 Contactos
 
