@@ -63,15 +63,14 @@ Sou estudante do curso de **Programador de Informática**, com interesse em **de
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TiagoSa-125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSa-125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+<img width="49%" height="180" src="https://github-stats-extended.vercel.app/api?username=TiagoSa-125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<img width="49%" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TiagoSa-125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoSa-125&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+<img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=TiagoSa-125&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## 📫 Contactos
