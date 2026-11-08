@@ -1,65 +1,65 @@
-<!-- Troca SEU-USERNAME pelo teu username do GitHub e o link do LinkedIn pelo teu -->
+<!-- Replace YOUR-USERNAME with your GitHub username and the LinkedIn link with yours -->
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Tiago Sá - Programador" width="100%" />
+<img src="./assets/banner.svg" alt="Tiago Sá - Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%A7+Ol%C3%A1%2C+eu+sou+o+Tiago!;Estudante+de+Programador+de+Inform%C3%A1tica;Apaixonado+por+software%2C+IA+e+astronomia+%F0%9F%8C%8C;A+aprender+algo+novo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%A7+Hi%2C+I%27m+Tiago!;Computer+Programming+Student;Passionate+about+software%2C+AI+and+astronomy+%F0%9F%8C%8C;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://github.com/TiagoSa-125?tab=followers">
-  <img src="https://img.shields.io/github/followers/TiagoSa-125?label=Seguidores&logo=github&logoColor=white&color=8b5cf6&style=for-the-badge" alt="Seguidores" />
+  <img src="https://img.shields.io/github/followers/TiagoSa-125?label=Followers&logo=github&logoColor=white&color=8b5cf6&style=for-the-badge" alt="Followers" />
 </a>
 <a href="https://github.com/TiagoSa-125?tab=following">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/TiagoSa-125&query=$.following&label=A%20seguir&logo=github&logoColor=white&color=0ea5e9&style=for-the-badge" alt="A seguir" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/TiagoSa-125&query=$.following&label=Following&logo=github&logoColor=white&color=0ea5e9&style=for-the-badge" alt="Following" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=TiagoSa-125&label=Visitas&color=0e75b6&style=for-the-badge&abbreviated=false" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=TiagoSa-125&label=Visits&color=0e75b6&style=for-the-badge&abbreviated=false" alt="Visits" />
 <img src="https://img.shields.io/badge/Portugal-🇵🇹-red?style=for-the-badge" alt="Portugal" />
 
 </div>
 
 ---
 
-## 🐧 Sobre Mim
+## 🐧 About Me
 
-Sou estudante do curso de **Programador de Informática**, com interesse em **desenvolvimento de software**, **inteligência artificial** e na área da **astronomia**. 🌌
+I'm a **Computer Programming** student with an interest in **software development**, **artificial intelligence** and **astronomy**. 🌌
 
-- 🔭 A trabalhar em projetos de software e a explorar IA
-- 🌱 A aprender e a melhorar todos os dias
-- ⚡ Curiosidade: gosto de olhar para as estrelas tanto quanto de olhar para o meu código
+- 🔭 Working on software projects and exploring AI
+- 🌱 Learning and improving every day
+- ⚡ Fun fact: I like looking at the stars as much as I like looking at my code
 
 ---
 
-## 💻 Linguagens
+## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py&theme=dark" alt="linguagens" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py&theme=dark" alt="languages" />
 </p>
 
-## 🌐 Desenvolvimento Web
+## 🌐 Web Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,react,html,css&theme=dark" alt="web" />
 </p>
 
-## 🗄️ Base de Dados
+## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="bases de dados" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="databases" />
 </p>
 
-## 🛠️ Ferramentas
+## 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,docker&theme=dark" alt="ferramentas" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,docker&theme=dark" alt="tools" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Sou estudante do curso de **Programador de Informática**, com interesse em **de
 </div>
 
 
-## 📫 Contactos
+## 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tiago-sa125/" target="_blank">
