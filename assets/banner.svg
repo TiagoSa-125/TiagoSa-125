@@ -165,8 +165,8 @@
 <rect x="62" y="150" width="70" height="4" rx="2" fill="#7dd3fc">
 <animate attributeName="width" values="70;260;70" dur="5s" repeatCount="indefinite"/>
 </rect>
-<text x="62" y="194" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="25" fill="#e0e7ff" letter-spacing="4">PROGRAMADOR  ·  IA  ·  ASTRONOMIA</text>
-<text x="62" y="232" font-family="'Courier New',monospace" font-size="18" fill="#93c5fd" fill-opacity="0.9">&lt;/&gt; a explorar o código e o universo ✦</text>
+<text x="62" y="194" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="25" fill="#e0e7ff" letter-spacing="4">PROGRAMMER  ·  AI  ·  ASTRONOMY</text>
+<text x="62" y="232" font-family="'Courier New',monospace" font-size="18" fill="#93c5fd" fill-opacity="0.9">&lt;/&gt; Exploring code & the cosmos ✦</text>
 </g>
 <rect x="1" y="1" width="998" height="298" rx="18" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/>
 </svg>
